@@ -56,6 +56,10 @@ Our Goal is to help students find services in one place
 
 ![home page](/HomePage.PNG)
 
+![home page](/Scolarship.PNG)
+
+![home page](/SplashScreen.PNG)
+
 ## Feature Enhancement
 
 - **Personalized Dashboard**
