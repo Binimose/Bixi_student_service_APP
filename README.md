@@ -54,6 +54,7 @@ Our Goal is to help students find services in one place
 
 ## Screenshots
 
+![home page](/HomePage.PNG)
 
 ## Feature Enhancement
 
